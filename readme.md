@@ -43,4 +43,4 @@ Welcome to the **Medicinal Plants AR App**, an innovative Augmented Reality (AR)
    ```bash
    git clone https://github.com/tanmoy-12/medicinal-plants-ar.git
 
-* Developed by **Tanmoy Chanda** under the mentorship of **Sourav Kayal**
+* Developed by **Tanmoy Chanda** under the mentorship of **Dr. Sourav Kayal**
